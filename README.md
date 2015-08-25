@@ -54,17 +54,27 @@ The implementation for the paper "A Uniform Framework for Ad-hoc Indexes to Answ
     4: query cost function
     5: index size cost function
 
-    1.3.3 Query
- 
+
+1.3.3 Query
+
 usage:query [option]
-      option:
-      -q: the number of queries
-      -t [1|2|3|]
-      1:read the multiple index and do the query
-      2: read the hopi index and do the query
-      3: read the interval index and do the query
-      -a densitry threshold
-      -g: input graph file name
-      -b maximum buffer size (Mega)
+   
+   option:
+   -q: the number of queries
+   
+   -t [1|2|3|]
+   
+   1:read the multiple index and do the query
+   
+   2: read the hopi index and do the query
+   
+   3: read the interval index and do the query
+   
+   -a densitry threshold
+   
+   -g: input graph file name
+   
+   -b maximum buffer size (Mega)
+   
 
 
