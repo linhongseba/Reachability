@@ -1,0 +1,1 @@
+e06_update.pl %1 > coba.txt

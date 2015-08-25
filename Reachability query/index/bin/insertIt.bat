@@ -1,0 +1,1 @@
+e06_upd_add.pl %1 %2 > ins.txt

@@ -1,0 +1,1 @@
+getADesc -n 0 -t Course > babut.txt
